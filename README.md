@@ -2,7 +2,6 @@
 
 Ucab is a modern, responsive, full-stack cab booking platform built with the MERN stack (MongoDB, Express.js, React, Node.js). It provides a complete experience for Riders, Drivers, and Administrators with real-time tracking, beautiful UI components, and secure JWT-based authentication.
 
-![Ucab Platform](https://ucab.com/placeholder-image-if-you-want-to-add-one.png)
 
 ## ✨ Features
 
